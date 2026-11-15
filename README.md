@@ -1,45 +1,36 @@
 # TrueHelm: Realistic Shipping Lanes — Official Game Download
 
-**Photorealistic 3D Maritime Cargo, Mega-Ship Company Co-Op & OpenXR VR Bridge Simulator**
+**Photorealistic 3D Maritime Cargo, Mega-Ship Company Co-Op & OpenXR VR Bridge Simulator (Windows 10/11 PC & OpenXR VR)**
 
 ---
 
-## 1-Click Direct Game Downloads (No Sign-In Required!)
+## 1-Click Direct Game Download (No Sign-In Required!)
 
-| Platform | 1-Click Direct Download | Size & Details |
+| Platform | 1-Click Direct Download | Details |
 | :--- | :--- | :--- |
-| **Windows 10 / 11 (64-bit PC & OpenXR VR)** | [**Download `TrueHelm_Windows_Playable.zip` (Latest `v1.9.0`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_Windows_Playable.zip) | **`594 MB`** — Standalone DX12 PC + Meta Quest / OpenXR VR (`PLAY_TRUEHELM.bat` & `LAUNCH_TRUEHELM_IN_VR.bat` included) |
-| **macOS 11+ (Apple Silicon M1–M4 & Intel)** | [**Download `TrueHelm_MacOS_Playable.zip` (Latest `v1.9.0`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_MacOS_Playable.zip) | **`594 MB`** — 1-Click `Maritime Cargo.app` bundle (auto-configures Rosetta 2 / Wine runtime on first launch) |
+| **Windows 10 / 11 (64-bit PC & OpenXR VR)** | [**Download `TrueHelm_Windows_Playable.zip` (Latest `v1.9.1`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_Windows_Playable.zip) | Standalone DX12 PC + Meta Quest / SteamVR / OpenXR VR (`PLAY_TRUEHELM.bat` & `LAUNCH_TRUEHELM_IN_VR.bat` included) |
 | **All Releases & Patch Notes** | [**Open GitHub Releases Page (`/releases/latest`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest) | Direct browser downloads & version notes |
+| **Live Website & 35-Ship Fleet Explorer** | [**Open Official TrueHelm Website**](https://jbender083-prog.github.io/TrueHelm-Website/) | Interactive 35-boat photo gallery & 30-second Live Dev Dashboard |
 
 ---
 
-## 3-Step Quick Start for Friends
+## 3-Step Quick Start for Windows PC & VR
 
-### Windows PC (Desktop or VR)
 1. **Download**: Click [**`TrueHelm_Windows_Playable.zip`**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_Windows_Playable.zip) above.
-2. **Extract All**: Right-click the downloaded `.zip` file -> click **Extract All...** -> **Extract** *(make sure to extract the folder first — do not double-click `.exe` from inside the unextracted ZIP preview window)*.
+2. **Extract All**: Right-click the downloaded `.zip` file -> click **Extract All...** -> **Extract** *(always extract the folder first — do not double-click `.exe` from inside the unextracted ZIP preview window)*.
 3. **Play**: Open the extracted **`TrueHelm_Windows`** folder and double-click **`PLAY_TRUEHELM.bat`** (or **`RealisticShippingLanes.exe`**) for Desktop, or **`LAUNCH_TRUEHELM_IN_VR.bat`** for OpenXR VR!
    - **Windows SmartScreen Tip**: If Windows displays *"Windows protected your PC"* on first launch, click **More info** -> **Run anyway**.
 
-### macOS (Apple Silicon & Intel)
-1. **Download**: Click [**`TrueHelm_MacOS_Playable.zip`**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_MacOS_Playable.zip) above.
-2. **Unzip**: Double-click `TrueHelm_MacOS_Playable.zip` in Finder to extract **`Maritime Cargo.app`**.
-3. **Play**: Right-click (Control-click) **`Maritime Cargo.app`** -> **Open** *(first launch takes ~1 minute to automatically download and configure the Mac game runtime)*.
-
 ---
 
-## How to Play Multiplayer Company Co-Op Together (Same Ship!)
+## How to Play Multiplayer Company Co-Op Together (Real Players Only!)
 
-You and your friends can sail **solo in separate vessels** OR **crew the exact same ship together** in real time:
+You and your friends can crew the **same physical ship together**, borrow **Company-Provided ships**, or sail **your own personal ship** under one company banner:
 
-1. Launch the game, create or sign into your Captain profile, and enter the ocean world (everyone automatically connects to the live **US Ocean Server** with synchronized UTC time-of-day, ocean waves, and moving storm fronts!).
-2. **Host a Company**: Press **`[P]`** (or use **Bridge Monitor 7** in 1st-person) -> click **`[ CREATE OPEN COMPANY ]`**.
-3. **Friends Join Your Ship**: Friends press **`[P]`**, select your Open Company in the live server list, and click **`[ JOIN COMPANY & BOARD SHIP ]`**.
-4. **Shared Multi-Crew Controls & Guaranteed Even `1/N` Payouts**:
-   - All crewmates board the **same physical ship** (zero duplicate ghost hulls!) as visible 3D naval officers.
-   - **Every crewmate** can steer the wheel, adjust throttle/bow thruster, drop/weigh anchor, engage autopilot, accept & sell cargo contracts, shoot 8-ball pool, or change channels on the 110" Lounge TV.
-   - Every completed cargo delivery **splits the cash payout evenly (`1/N`)** across all online company crewmates (`2` crew = `50%` each, `3` crew = `33.3%` each)!
+1. Launch the game, sign into your Captain profile, and enter the ocean world (everyone automatically connects to the live **US Ocean Server** with synchronized UTC time-of-day, ocean waves, and moving storm fronts).
+2. **Create & Name Your Company**: Press **`[P]`** (works in both **1st-Person Bridge** and **3rd-Person**) or use **Bridge Monitor 7** -> type any custom **Company Name**, choose your **Member Commission %** (`50%`, `70%`, `80%`, `[-5%]/[+5%]`, or `Even 1/N`), toggle **`[ PROVIDE MY OWNED SHIPS ]`**, and click **`[ + CREATE COMPANY ]`**.
+3. **Friends Join Your Company**: Friends press **`[P]`** and click **`[ JOIN ]`** beside your open company, then pick between **Boarding Founder's Ship (Co-Op)**, **Borrowing a Company-Provided Ship** (temporary company loan — reverts automatically when leaving), or **Sailing Their Own Personal Ship**.
+4. **Mega-Ship Aft Lounge (`#29–#35`)**: Walk aft (`[F9]`) to shoot 8-ball on **smooth spherical Solids & Stripes billiard balls** (hold **LMB + pull mouse back `0–55 cm`** on PC, or physically grab & stroke the cue in **OpenXR VR**) and press **`Ctrl+V`** (or paste inside `[P]`) to stream real **YouTube videos** on the **110" Lounge TV** synced across your crew!
 
 ---
 
@@ -53,18 +44,21 @@ You and your friends can sail **solo in separate vessels** OR **crew the exact s
 | **`0`** | All Stop / Neutral Throttle |
 | **`C` / `V`** | Toggle **1st-Person Bridge** / **3rd-Person Exterior Orbit** Camera |
 | **`F9` / `3`** | Toggle **Wheelhouse & Aft Lounge Free-Walk Mode** (`WASD` + Mouse Look while underway!) |
+| **`Hold LMB + Pull Back`** | Draw back **3D Pool Cue** (`0–55 cm` power gauge) & release to strike |
+| **`Ctrl + V`** | Paste **YouTube Video Link** onto Mega-Ship **110" Lounge TV** |
+| **`B`** | Hold Push-to-Talk on **VHF Bridge Radio** (`0.08 ms` async worker thread — zero lag) |
 | **`M`** | Full-Screen **5x World ECDIS Radar & 74-Island Map** (click any island/port for Autopilot) |
-| **`P`** | **Multiplayer & Maritime Company Co-Op** Menu |
+| **`P`** | **Multiplayer & Maritime Company Co-Op** Menu (1st-Person & 3rd-Person) |
 | **`I`** | Drop / Weigh Physical Stud-Link **Bow Anchor** |
 | **`L` / `H`** | Toggle **Bow Spotlights** / Sound **Ship Horn** |
 | **`G` / `ESC`** | Graphics & Audio Settings / Main Menu |
 
 ---
 
-## What's New in `v1.9.0`
+## What's New in `v1.9.1`
 
-- **5x Ocean World (`4,617 km x 4,617 km`) & `74` Diverse Landmasses**: `16` scenic dockless rocky islets (`0.28x–0.62x`), `40` medium/large islands (`32` full 6-zone deepwater ports + `8` scenic islands), and `18` massive continental countries/states (`3.8x–8.5x`) out to the `+/- 2,262 km` frontier.
-- **35 Playable Vessels (Tiers 1–5)**: From agile harbor tenders and offshore supply vessels (`OSVs`) up to `280m` ULCV Container Titans, `399m` Megamax Boxships, and the `488m` `#34 FLNG Prelude Leviathan`.
-- **Tier 5 Mega-Ship Aft Crew Lounge (`#29–#35`)**: Walk aft (`[F9]`) to play **16-ball 3D physics Billiards on a 9-ft Championship Pool Table** or relax on the leather crew sofa watching the **4-channel 110" Widescreen Cinema TV**.
-- **Multiplayer Company Co-Op & Shared Vessel Command**: Single-hull crew boarding, shared helm/throttle/anchor/autopilot/contract/lounge controls, automatic host failover, and exact `1/N` equal delivery payouts.
-- **12 Moving Localized Weather Cells & OpenXR VR**: Live Squalls, Dense Fog Banks (`~110m` visibility), and Gale Fronts with `+20%` to `+35%` hazard-bonus contracts, physical sand anchoring, `3K` touch bridge MFDs, and dual 26-bone articulated VR hands.
+- **Smooth High-Segment Solids & Stripes 3D Pool Spheres**: Replaced low-poly pool balls with smooth `2,592`-triangle UV spheres featuring distinct **Solids (`1–7`)**, **Black 8-Ball (`8`)**, **Equatorial Stripes (`9–15`)**, numbered medallions, and real `PoolBallRotQuat` 3D rolling spin.
+- **PC Pull-Back Cue Power Bar & OpenXR VR Physical Cue Stroke**: Hold **LMB** and pull your mouse back (`0–55 cm` stop) on Desktop, or physically grab, align, pull back, and push forward with your **OpenXR VR** motion controller to strike the cue ball.
+- **110" Lounge TV Live YouTube Streaming**: Copy any `youtube.com/watch`, `youtu.be/`, or `shorts/` URL and press **`Ctrl+V`** near the TV (or paste inside **`[P]`**) to stream full-screen cinema video synced across all crewmates aboard.
+- **Zero-Freeze Async VHF Bridge Radio (`< 0.1 ms` Game Thread)**: Moved `WinMM` microphone/speaker hardware management onto a warm background worker thread so grabbing and keying the VHF handset has zero frame hitching.
+- **Upgraded Real-Player Maritime Companies**: Custom keyboard company naming, configurable delivery commission `%` (`100%` dollar conservation between Member Share and Owner Cut, plus `Even 1/N` mode), and **Company-Provided vs. Personal Fleet Sharing** across real human players.

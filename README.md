@@ -8,7 +8,8 @@
 
 | Platform | 1-Click Direct Download | Details |
 | :--- | :--- | :--- |
-| **Windows 10 / 11 (64-bit PC & OpenXR VR)** | [**Download `TrueHelm_Windows_Playable.zip` (Latest `v1.9.2`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_Windows_Playable.zip) | Standalone DX12 PC + Meta Quest / SteamVR / OpenXR VR (`PLAY_TRUEHELM.bat` & `LAUNCH_TRUEHELM_IN_VR.bat` included) |
+| **Windows 10 / 11 — Desktop Launcher (Recommended)** | [**Download `TrueHelmLauncher.exe` (`0.5 MB` — No `.zip` Extraction Required!)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelmLauncher.exe) | Zero-dependency single-file installer, auto-updater & 1-click PC / OpenXR VR launcher |
+| **Windows 10 / 11 — Portable Archive (`.zip`)** | [**Download `TrueHelm_Windows_Playable.zip` (Latest `v1.9.2`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest/download/TrueHelm_Windows_Playable.zip) | Standalone DX12 PC + Meta Quest / SteamVR / OpenXR VR (`PLAY_TRUEHELM.bat` & `LAUNCH_TRUEHELM_IN_VR.bat` included) |
 | **All Releases & Patch Notes** | [**Open GitHub Releases Page (`/releases/latest`)**](https://github.com/jbender083-prog/TrueHelm-Game-Download/releases/latest) | Direct browser downloads & version notes |
 | **Live Website & 35-Ship Fleet Explorer** | [**Open Official TrueHelm Website**](https://jbender083-prog.github.io/TrueHelm-Website/) | Interactive 35-boat photo gallery & 30-second Live Dev Dashboard |
 
@@ -57,6 +58,7 @@ You and your friends can crew the **same physical ship together**, borrow **Comp
 
 ## What's New in `v1.9.2`
 
+- **Zero-Dependency `TrueHelmLauncher.exe` Desktop Installer & Auto-Updater (`0.5 MB`)**: Download `TrueHelmLauncher.exe`, open it directly, and click **Download & Install** / **Update** / **Play TrueHelm** (Windows Desktop or OpenXR VR) with zero manual `.zip` extraction and automatic career save preservation.
 - **Real-Time 3-Act Startup Cinematic & Holographic Wireframe Morph**: Real-time dusk coastal harbor fly-in off Port Horizon Hub with sweeping volumetric lighthouse beam, seamless bow-to-stern electric-cyan laser scan morph into a 67,584-vert 3D holographic wireframe flagship & undulating ocean wave grid, interactive 35-ship 3D hologram selector, and zero-overhead post-launch teardown (`[SPACE / ENTER / CLICK TO SKIP INTRO]`).
 - **Live Multiplayer Remote Hull & Cargo Sync Fixes**: Instant automatic hull mesh preload recovery (zero invisible remote hulls), exact `1:1` catalog hull scaling & keel-to-draft waterline seating across all 35 vessels, and strict container-only deck cargo bounds (zero floating containers on liquid tankers like `#05 Coastal Product Tanker` or unloaded hulls).
 - **Live 1-to-1 Spinnable 3D Ocean Globe**: Track live captains sailing the 74-island TrueHelm ocean in real time with scaled 3D Blender ship models on the [Official TrueHelm Website](https://jbender083-prog.github.io/TrueHelm-Website/#live-globe).

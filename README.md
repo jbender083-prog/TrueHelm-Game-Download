@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.9`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.10`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.9`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.10`).
 
 ---
 
-## Direct Download (`v1.9.9` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.10` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.9`
+## What's New in `v1.9.10`
 
-- **Dedicated `48,000 Hz` Studio Maritime Horns (`#01`–`#35`)**: Studio-mastered `48 kHz` 16-bit PCM marine horns (dual-trumpet air chimes, 3-chime brass harbor tug whistles, ferry Tyfons, ocean-liner Supertyfon triads, and deep `73.4 Hz` Zetfon megaship blasts) on a dedicated distortion-free `48 kHz` audio channel with natural harbor echo decay.
-- **Zero-Stick Horn Lanyard, `[H]` Key & HUD Blast Fix**: Cleanly decoupled overhead cabin lanyard pull, `[H]` hold/release, and HUD `[ HORN (H) ]` one-shot blasts with per-frame input/focus failsafes so horns never stick on after release.
-- **Full Cargo-Type Spawn Restore & Cabin Input Polish Sweep**: Full `PLAY` visual cargo restoration across Ro-Ro, Tanker, Dry Bulk, LNG, Heavy-Lift, and Container ships plus clean mouse/drag state release across Cabin YouTube TV, helm levers, and menus.
+- **Warp-Free Stationary Flat 2D Full World Map (`[M]`)**: Clean, rigid 2D nautical chart projection with smooth zoom in/out and crisp viewport polygon clipping — zero island warping, zero border squashing, and zero 3rd-person camera bleed.
+- **Company-Wide Cabin YouTube TV Watch-Party Sync**: Real-time Play, Pause, timeline scrubber seek, late-join frame lock, and drift correction across all members in your shipping company over both Direct UDP and online Cloud multiplayer — watch YouTube together in lockstep at 60 FPS inside the cabin (`1P` & OpenXR VR).
+- **Includes All `v1.9.9` Upgrades**: Dedicated `48,000 Hz` studio-mastered maritime horns across all 35 vessels (`#01`–`#35`), guaranteed zero-stick horn lanyard/`[H]`/HUD release, and full cargo-type visual restoration on `PLAY`.

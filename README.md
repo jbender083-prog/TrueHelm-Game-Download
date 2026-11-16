@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.11`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.12`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.11`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.12`).
 
 ---
 
-## Direct Download (`v1.9.11` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.12` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.11`
+## What's New in `v1.9.12`
 
-- **High-Speed Ocean World Streaming & Stability Refinements**: Enhanced dynamic ocean streaming, swept shoreline safety resolution, and multiplayer fleet synchronization across all 74 islands and 32 ports.
-- **HUD & Bridge MFD Telemetry Formatting**: Clean wide-range speed, propulsion, and fuel display formatting across the 2D HUD and 1st-person 3D Bridge Monitors.
-- **Includes `v1.9.10` & `v1.9.9` Upgrades**: Warp-free flat 2D Full World Map (`[M]`), Company-Wide Cabin YouTube TV Watch-Party Sync, and dedicated `48,000 Hz` studio maritime horns across all 35 ships.
+- **30 Living Coral Reef Ecosystems (`420+` Global Reefs Across All `4,617 km`)**: 30 distinct 3D coral, giant sponge, Tridacna clam, limestone arch, grotto, basalt, and kelp archetypes spanning 5 depth tiers (`1.2m–48m`) and 5 size classes across all 74 islands and open-ocean atolls.
+- **Vibrant Underwater Marine Reef Wildlife**: Schooling tropical reef fish, sea turtles, spotted eagle & manta rays, patrolling reef sharks, and visiting dolphins & whale sharks streamed smoothly at **90+ FPS on 1080p Ultra**.
+- **100% Clear Harbor Channels & Open-Water Reef Placement**: Strict 25-point reef footprint validation guarantees zero reefs under islands, in front of port docks, or inside green-buoy navigation channels across all 35 playable ships.

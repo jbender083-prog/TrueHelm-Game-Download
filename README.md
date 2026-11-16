@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.8`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.9`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.8`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.9`).
 
 ---
 
-## Direct Download (`v1.9.8` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.9` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,10 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.8`
+## What's New in `v1.9.9`
 
-- **Exact Exit Save & Exact `PLAY` Restoration**: Synchronous local + cloud persistence across all exit paths (`[SAVE & EXIT]`, `[EXIT GAME]`, `Alt+F4` / window close) restores your exact world `(X, Y, Yaw)` location, ship, bank balance, fuel, mooring/anchor state, active contract, and 3D deck cargo containers when clicking `PLAY`.
-- **Multi-Player Same-Location Spawn De-Overlap**: Captains with identical saved coordinates spawn cleanly nearby side-by-side with full hull clearance — never overlapping inside each other.
-- **9-Point Hull Anti-Island & Anti-Shallow-Water Guard**: Every spawn pose validates all 9 hull footprint points at worst-case low tide so ships never spawn on islands, piers, coral reefs, or shallow shoals.
-- **Evenly Distributed Big-Boat Interior Cabin Lighting**: Slightly brighter, evenly spread multi-bay ceiling lighting across large ship bridges, walkways, and lounges (`#10`–`#35`) eliminates dark cabin corners at 60+ FPS Ultra.
-- **Authentic Real-World Recorded Boat & Ship Horns (`#01`–`#35`)**: Real recorded 48 kHz marine compressed-air horns, tug whistles, ferry Tyfons, ocean-liner chimes, and deep megaship/supertanker Supertyfon blasts across all 35 vessels.
+- **Dedicated `48,000 Hz` Studio Maritime Horns (`#01`–`#35`)**: Studio-mastered `48 kHz` 16-bit PCM marine horns (dual-trumpet air chimes, 3-chime brass harbor tug whistles, ferry Tyfons, ocean-liner Supertyfon triads, and deep `73.4 Hz` Zetfon megaship blasts) on a dedicated distortion-free `48 kHz` audio channel with natural harbor echo decay.
+- **Zero-Stick Horn Lanyard, `[H]` Key & HUD Blast Fix**: Cleanly decoupled overhead cabin lanyard pull, `[H]` hold/release, and HUD `[ HORN (H) ]` one-shot blasts with per-frame input/focus failsafes so horns never stick on after release.
+- **Full Cargo-Type Spawn Restore & Cabin Input Polish Sweep**: Full `PLAY` visual cargo restoration across Ro-Ro, Tanker, Dry Bulk, LNG, Heavy-Lift, and Container ships plus clean mouse/drag state release across Cabin YouTube TV, helm levers, and menus.

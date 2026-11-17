@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.15`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.16`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.15`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.16`).
 
 ---
 
-## Direct Download (`v1.9.15` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.16` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,7 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.15`
+## What's New in `v1.9.16`
 
-- **Safe Ship Upgrades Near Docks, Multi-Megaship Berth Slots & Seaward Company Disembark**: Upgrading to wide-beam ships at or near docks now resolves full waterside pier clearance before saving, expands multi-player harbor berth de-overlap across the full pier & outer parallel lanes, and places disembarking Company Co-Op ships cleanly seaward.
-- **Strict Multi-Account Career Isolation**: Full clean-slate state isolation across Sign-Out, New Account Registration, Quick-Switch, and Cloud/local profile loads across all 35 ships.
-- **Cabin Walkability, Captain's Chair, YouTube TV Audio & Network Hardening**: Unobstructed small-boat cabin aisles & stand-up poses, seamless Captain's Chair/VR camera transitions across ship swaps, instant YouTube TV audio mute on CH 1–4 / Mute / Main Menu, and hardened multiplayer packet sanitization at **100+ FPS on 1080p Ultra**.
+- **Physics-Simulated Overhead Horn Rope (`All 35 Ships`)**: Multi-segment physics horn lanyard swaying naturally with ocean waves & ship turns, pulling taut on `[H]` / 1P / OpenXR VR grab, and recoiling smoothly when released.
+- **Connected 3D Bridge Levers, Steering Column & Overhead Camera Mounts**: Deep-seated Dual Throttle, Anchor Windlass, and Bow Thruster chrome shafts centered inside their rubber bellows boots across full tilt, zero-gap steering wheel column hub connection, and heavy-duty VESA wall/ceiling brackets behind all 4 overhead hull camera monitors at **100+ FPS on 1080p Ultra**.

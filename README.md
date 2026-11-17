@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.13`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.14`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.13`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.14`).
 
 ---
 
-## Direct Download (`v1.9.13` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.14` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.13`
+## What's New in `v1.9.14`
 
-- **Articulated Reef Wildlife Swimming Animations (`502` Global Coral Reefs)**: Sweeping reef shark S-wave tails & pectoral fins, flapping manta & spotted eagle ray wings, rowing 4-flipper sea turtles (with rigid shells), vertical dolphin tail-fluke kicks, and fluttering tropical reef fish tails at **95–120+ FPS on 1080p Ultra**.
-- **Deduplicated 8-Monitor 3D Bridge Cabin Layout (`Monitors 0–7`)**: Every cabin monitor now has one clean, unique role — Dealership exclusively on Monitor 6, Port Docking & Contracts on Monitor 5, and Save/Exit/Settings/`[VR MODE]` consolidated exclusively on Monitor 7 with zero duplicate buttons across screens.
-- **Clean-Room Ultra-Light `TrueHelmLauncher` `1.9.13.0` (`212 KB`)**: Streamlined single-file installer with standard default-browser Google Sign-In and 1-click updates.
+- **Cabin YouTube TV & Couch in Every Vessel (`All 35 Ships`)**: Proportional Cabin YouTube TV & couch sizing across all 35 vessels — from wall-mounted `22"–36"` compact cabin TVs & small couches in harbor launches/tugs up to `110"` cinema lounges in megaships, complete with 1P/VR Play/Pause/Scrub, Company Watch-Party Sync, and 3D spatial cabin audio.
+- **Interactive 3D Captain's Chair (`1P [3] Toggle + OpenXR VR Armrest Lock`)**: Marine pedestal Captain's Chair in front of every ship's helm wheel; press **`[3]`** on keyboard to teleport into the chair and **`[3]`** again to walk the cabin, or click the chair in VR to lock into the helm until pressing the physical illuminated armrest release button.
+- **Precision Outside-Dock Respawn Clearance**: Returning captains who logged out docked or near any port terminal always spawn cleanly waterside outside the concrete pier with full hull-to-quay fender clearance at **95–120+ FPS on 1080p Ultra**.

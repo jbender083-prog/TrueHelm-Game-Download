@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.16`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.17`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.16`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.17`).
 
 ---
 
-## Direct Download (`v1.9.16` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.17` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,7 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.16`
+## What's New in `v1.9.17`
 
-- **Physics-Simulated Overhead Horn Rope (`All 35 Ships`)**: Multi-segment physics horn lanyard swaying naturally with ocean waves & ship turns, pulling taut on `[H]` / 1P / OpenXR VR grab, and recoiling smoothly when released.
-- **Connected 3D Bridge Levers, Steering Column & Overhead Camera Mounts**: Deep-seated Dual Throttle, Anchor Windlass, and Bow Thruster chrome shafts centered inside their rubber bellows boots across full tilt, zero-gap steering wheel column hub connection, and heavy-duty VESA wall/ceiling brackets behind all 4 overhead hull camera monitors at **100+ FPS on 1080p Ultra**.
+- **Walk the Entire Ship (`All 35 Ships`)**: Open real 3D bridge doors, walk down multi-floor companionway stairs (up to `5+` floors) to the main cargo deck, and stroll from bow to stern beside your loaded cargo — press **`[3]`** anywhere to return to the Captain's Chair.
+- **Smooth Live Hull-Edge Overhead Cameras**: All 4 `BOW / PORT / STBD / STERN` camera monitors stream smooth real-time video with your own hull edge visible along the bottom of each feed for precise docking clearance.
+- **True Newtonian Horn Rope & VHF Cord Physics**: Both overhead cords hang 100% plumb and still when stopped (`0.0 KT`) and sway only with real hull motion at **100+ FPS on 1080p Ultra**.

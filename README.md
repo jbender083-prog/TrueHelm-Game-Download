@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.24`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.25`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.24`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.25`).
 
 ---
 
-## Direct Download (`v1.9.24` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.25` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,7 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.24`
+## What's New in `v1.9.25`
 
-- **Planted Heavy-Displacement Waterline & Zero Wave-Hit Bobbing (`#08`–`#35`, `74m–400m`)**: Medium and large ships (`#08 MV Ocean Adventure` through `400m` megaships) slice smoothly and heavily straight through normal waves with a rock-steady planted forefoot and zero vertical bobbing or pitch bounce — while preserving bow spray, windshield salt droplets, `1–3m` wet-hull bands, and heavy storm motion.
-- **Full Naval Ocean Realism, Stem-to-Stern Walk & Multiplayer Port Sync (`All 35 Ships`)**: Includes concrete quay standing-wave reflection, shallow-water sediment plumes, green-water forecastle surge & scupper streams, multiplayer dock mooring lines & 60 FPS STS crane cargo sync, stem-to-stern deck walkability, and an instant `Classic v1.9.22` Sea Realism toggle.
+- **Interactive Overhead CCTV PTZ Camera Controls (`All 35 Ships`)**: Click or hold `[▲ / ▼ / ◄ / ► / ◎]` directly on all 4 overhead hull camera monitors (`BOW CAM 01` – `STERN CAM 04`) in Desktop 1P or OpenXR VR to aim each camera freely with saved per-camera angles and zero-lag cursor feedback.
+- **Bigger Open-Ocean Swells (`1.62x` Fetch) & Calm Sheltered Harbors**: Deep open-ocean waters `>= 3.5 km` offshore build `1.62x` larger rolling waves (100% multiplayer-synced), while docks and harbor basins `<= 1.15 km` remain calm.
+- **50% Quieter Cabin Wave Acoustics, Big-Wave-Only Slam Thuds & Steady Small-Boat 1P Camera**: Wave-splashing and slam audio attenuate by `50%` inside enclosed cabins (full `100%` in 3rd-person or outside on deck), hard wave-slam thuds only trigger in genuinely big seas, and small-boat 1st-person cameras (`#01`–`#07`) are rock-steady with zero rapid vertical wiggle.

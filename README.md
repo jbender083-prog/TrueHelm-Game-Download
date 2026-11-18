@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.21`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.22`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.21`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.22`).
 
 ---
 
-## Direct Download (`v1.9.21` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.22` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,7 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.21`
+## What's New in `v1.9.22`
 
-- **Pristine 8-Monitor Wheelhouse Consoles (`All 35 Ships`)**: Removed all legacy baked static monitor slabs and side-console blocks inside wheelhouse interiors across `#08 MV Ocean Adventure` and the entire fleet — leaving strictly the 8 live interactive Bridge MFD displays, 4 live Overhead Hull Cameras, and Cabin YouTube TV while keeping exterior superstructures 100% intact.
-- **Internal Deckhouse Elevators, Enterable Rooms & `360°` Ship Walk**: Multi-story internal elevators (`> 3`-story ships), enterable furnished rooms on every level, flush marine companionway stairs, and smooth 85+ FPS 1080p Ultra performance.
+- **True Stem-to-Stern Whole-Ship Walkability (`All 35 Ships`)**: Walk all the way forward into the tapered bow forecastle nose (past the windlasses & anchor chains), slide smoothly along curved bow rails, traverse port/starboard gangways to the stern fantail taffrail, and step out onto full-width aft bridge balconies and connected bridge wings.
+- **Multiplayer Dock Mooring Lines & 60 FPS STS Gantry Crane Sync**: Moored remote player ships render `6` sagged 3D catenary mooring hawsers to concrete pier bollards, and port `54.92m` STS Gantry Cranes smoothly animate 60 FPS trolley/spreader hoist cycles and progressive 3D cargo placement onto remote ships.
+- **Clean Companionways, Proportional Big-Ship Cabin Lounges & Zero-Lag Monitor Cursor**: Removed blocking stair parapets, legacy diagonal stairs, elevator-room floor Z-fighting, and the horn sphere artifact; scaled Cabin YouTube TVs (`68"–136"` widescreen + credenzas on medium/large/megaships) & sofas proportionally; and unified 1P/VR monitor cursors with zero frame lag.

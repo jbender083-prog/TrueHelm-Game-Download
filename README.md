@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.20`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.21`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.20`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.21`).
 
 ---
 
-## Direct Download (`v1.9.20` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.21` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,7 +13,7 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.20`
+## What's New in `v1.9.21`
 
-- **Restored Intact 3D Ship Superstructures (`All 35 Ships`)**: Surgical doorway-only apertures preserve 100% solid exterior deckhouse walls, bridge wings, and lifeboat davits across the entire fleet while keeping every open doorway crystal clear.
-- **Internal Deckhouse Elevators & Flush Companionway Stairs**: Multi-story elevators (`> 3`-story ships) are integrated cleanly inside the superstructure (flush in the aft bridge bulkhead and opening directly into every deckhouse room & cargo-deck foyer), paired with slim marine-white exterior companionway stairs hugged flush against the hull.
+- **Pristine 8-Monitor Wheelhouse Consoles (`All 35 Ships`)**: Removed all legacy baked static monitor slabs and side-console blocks inside wheelhouse interiors across `#08 MV Ocean Adventure` and the entire fleet — leaving strictly the 8 live interactive Bridge MFD displays, 4 live Overhead Hull Cameras, and Cabin YouTube TV while keeping exterior superstructures 100% intact.
+- **Internal Deckhouse Elevators, Enterable Rooms & `360°` Ship Walk**: Multi-story internal elevators (`> 3`-story ships), enterable furnished rooms on every level, flush marine companionway stairs, and smooth 85+ FPS 1080p Ultra performance.

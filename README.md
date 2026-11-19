@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.25`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.26`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.25`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.26`).
 
 ---
 
-## Direct Download (`v1.9.25` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.26` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.25`
+## What's New in `v1.9.26`
 
-- **Interactive Overhead CCTV PTZ Camera Controls (`All 35 Ships`)**: Click or hold `[▲ / ▼ / ◄ / ► / ◎]` directly on all 4 overhead hull camera monitors (`BOW CAM 01` – `STERN CAM 04`) in Desktop 1P or OpenXR VR to aim each camera freely with saved per-camera angles and zero-lag cursor feedback.
-- **Bigger Open-Ocean Swells (`1.62x` Fetch) & Calm Sheltered Harbors**: Deep open-ocean waters `>= 3.5 km` offshore build `1.62x` larger rolling waves (100% multiplayer-synced), while docks and harbor basins `<= 1.15 km` remain calm.
-- **50% Quieter Cabin Wave Acoustics, Big-Wave-Only Slam Thuds & Steady Small-Boat 1P Camera**: Wave-splashing and slam audio attenuate by `50%` inside enclosed cabins (full `100%` in 3rd-person or outside on deck), hard wave-slam thuds only trigger in genuinely big seas, and small-boat 1st-person cameras (`#01`–`#07`) are rock-steady with zero rapid vertical wiggle.
+- **3D Gravity Deck Fluid Simulation, 4 Flush Scupper Holes & Parabolic Ocean Waterfalls (`All 35 Ships` + Multiplayer Sync)**: `24x16` shallow-water gravity deck fluid sloshes across the bow with pitch/roll and drains through 4 physical deck-level scupper openings as curved 3D cylindrical water streams that trigger size-scaled ocean splash crowns, foam boil, and expanding surface ripples.
+- **Starter Boat (`#03` & `#01`) Dampened Wave-Landing Thump**: Warm, dampened wave-landing thump when the small starter boats crest and drop down waves (while medium & large vessels remain silent in normal chop).
+- **Multiplayer Live Whole-Boat Ship-Walk Sync & Own-Boat Company `[JOIN]`**: Remote boats render captains & co-op crewmates walking live across balconies, stairs, bow forecastle, stern fantail, sofa, and pool table (`1.25 km` range), and `[ JOIN COMPANY ]` defaults to sailing your own boat with explicit `[ BOARD CO-OP SHIP ]` / `[ MY OWN SHIP ]` controls.

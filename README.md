@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.26`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.27`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.26`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.27`).
 
 ---
 
-## Direct Download (`v1.9.26` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.27` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.26`
+## What's New in `v1.9.27`
 
-- **3D Gravity Deck Fluid Simulation, 4 Flush Scupper Holes & Parabolic Ocean Waterfalls (`All 35 Ships` + Multiplayer Sync)**: `24x16` shallow-water gravity deck fluid sloshes across the bow with pitch/roll and drains through 4 physical deck-level scupper openings as curved 3D cylindrical water streams that trigger size-scaled ocean splash crowns, foam boil, and expanding surface ripples.
-- **Starter Boat (`#03` & `#01`) Dampened Wave-Landing Thump**: Warm, dampened wave-landing thump when the small starter boats crest and drop down waves (while medium & large vessels remain silent in normal chop).
-- **Multiplayer Live Whole-Boat Ship-Walk Sync & Own-Boat Company `[JOIN]`**: Remote boats render captains & co-op crewmates walking live across balconies, stairs, bow forecastle, stern fantail, sofa, and pool table (`1.25 km` range), and `[ JOIN COMPANY ]` defaults to sailing your own boat with explicit `[ BOARD CO-OP SHIP ]` / `[ MY OWN SHIP ]` controls.
+- **Saved-Ocean `60+ FPS` Startup Intro & Desktop Seated Armrest Pitch (`All 35 Ships`)**: Returning captains open directly onto their saved ship, 3D cargo load, and exact saved ocean/port coordinates at a silky-smooth `60+ FPS` from frame 1, with full `-86°` downward Desktop seated look to click `[ STAND & WALK ]` on every vessel (`OpenXR VR` untouched).
+- **Photorealistic Optical Windshield Droplets & Individual Horn / Engine / YouTube Volumes**: Bridge windshields render clear meniscus water droplets with dark TIR rims, caustic crescents, and pinpoint sun glints, while `[ESC] -> SETTINGS` and Bridge Monitor 7 `[SETTINGS]` add persistent `0%–100%` sliders for **Horn**, **Boat Engine**, and **YouTube TV**.
+- **Parallel Broadside Docking, 3D Boat-Wake Quay Slap, Frothy Weir Scuppers & `918` Wide Open-Ocean Coral Reefs**: Enforced side-by-side parallel docking alongside quays (stern-ramp preserved on Ro-Ro ferries), added 3D Bagnold whitewater dock-wall slap curtains + reflected clapotis boat wakes, upgraded bow wave flooding & frothy rectangular weir scupper waterfalls, and populated inter-island oceans with **`918` wide coral reefs (`0.32–1.68 km` wide)**!

@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.27`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.28`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.27`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.28`).
 
 ---
 
-## Direct Download (`v1.9.27` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.28` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.27`
+## What's New in `v1.9.28`
 
-- **Saved-Ocean `60+ FPS` Startup Intro & Desktop Seated Armrest Pitch (`All 35 Ships`)**: Returning captains open directly onto their saved ship, 3D cargo load, and exact saved ocean/port coordinates at a silky-smooth `60+ FPS` from frame 1, with full `-86°` downward Desktop seated look to click `[ STAND & WALK ]` on every vessel (`OpenXR VR` untouched).
-- **Photorealistic Optical Windshield Droplets & Individual Horn / Engine / YouTube Volumes**: Bridge windshields render clear meniscus water droplets with dark TIR rims, caustic crescents, and pinpoint sun glints, while `[ESC] -> SETTINGS` and Bridge Monitor 7 `[SETTINGS]` add persistent `0%–100%` sliders for **Horn**, **Boat Engine**, and **YouTube TV**.
-- **Parallel Broadside Docking, 3D Boat-Wake Quay Slap, Frothy Weir Scuppers & `918` Wide Open-Ocean Coral Reefs**: Enforced side-by-side parallel docking alongside quays (stern-ramp preserved on Ro-Ro ferries), added 3D Bagnold whitewater dock-wall slap curtains + reflected clapotis boat wakes, upgraded bow wave flooding & frothy rectangular weir scupper waterfalls, and populated inter-island oceans with **`918` wide coral reefs (`0.32–1.68 km` wide)**!
+- **True-Deck Wave Gate, Full-Hull `48x20` Stem-to-Stern Deck Flow, 7-Outlet Scupper Cascades & Overhead CCTV Water (`All 35 Ships`)**: Deck water enters strictly when the real 3D ocean crests above the deck edge, surges around wheelhouses & cargo hatches down port/starboard side-decks to the stern, drains via 6 side scuppers + stern spill with 2D SWE ocean wave dimpling, and renders live on all 4 Overhead CCTV Monitors.
+- **Spinning 3D Stern Propellers (`1–4` Screws), Smooth `1%` `[W]`/`[S]` Throttle, 4-Speed Wipers, Manual Night Lights & `< 60s` Zero-Clip Rescues**: Added engine-matched spinning stern propellers on all 35 vessels, smooth `1%-by-1%` keyboard throttle ramping, 4 wiper speeds, manual-only cabin/bow lights at night, MFD-only Beam Swell Hazard alerts, and `< 60s` zero-clipping rescue tug & fuel boat arrivals.
+- **`4,183` Whole-Map Coral Reefs (`7x` Mega-Reefs + `1,113` Marine Animals), Heavy Rain Downpours, 3-Speed Multiplayer Cranes & Docking Guide Toggle**: Thinned crowded center reefs while spreading `4,183` reefs & `250` `6.7–11.7 km` Mega-Reefs across the full `4,617 km` map with zero-lag region streaming, `3.2x` drenching 3D rainstorms, clean whitewater dock-wall wake hits, Docking Guide `[ON/OFF]`, and `[REALISTIC / MEDIUM / FAST]` port crane speeds synced per-player in multiplayer!

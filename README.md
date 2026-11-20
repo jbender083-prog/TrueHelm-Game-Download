@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.34`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.35`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.34`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.35`).
 
 ---
 
-## Direct Download (`v1.9.34` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.35` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.34`
+## What's New in `v1.9.35`
 
-- **Hanging Yokohama Dock Fender Buoys, Giant Mooring Bollards & Wind-Driven Rope Physics**: Massive ribbed Yokohama pneumatic fender buoys hanging down every port quay wall, heavy cast-iron T-head bollards with wrapped braided hawser coils, and live onshore/offshore wind mooring physics (cushioning hulls against the buoys with deep slouching rope catenaries in onshore wind, and pulling hawsers taut in offshore wind).
-- **Smooth Solid-Color Marine Hulls & Clean White Port/LNG Tanks**: Clean smooth factory-painted hull sides across all `35` vessels (`0` plate-grid lines, `0` rust — keeping crisp `2M–8M` draft & `L R` Plimsoll marks) plus smooth logo-free satin-white LNG Moss spheres and port fuel storage tanks.
-- **Seamless Bridge Console Desk, Bone-Dry Cabin Floors & Exterior-Only Rain Reflections**: Redesigned non-overlapping dark matte-charcoal bridge desk with flush warm-teak inlay (`0.000 cm` control drift), 100% bone-dry matte-satin cabin floors, and dynamic glossy rain reflections strictly outside on exterior decks, hulls, and containers at `100+ FPS` 1P Ultra!
+- **Solid Undocked Yokohama Dock Buoy Collision & Concrete-Edge-Draped Mooring Ropes**: Approaching ships physically contact, elastically compress, and rebound off hanging Yokohama fender buoys before tying mooring lines, while slacked local & multiplayer hawsers drape cleanly over the concrete pier edge without clipping into the dock.
+- **Zero-Flicker Bridge Desk (1P & VR), Watertight `35`-Ship Floors & Clean Storm Decks**: Eliminated duplicate coplanar cockpit faces (`50%` fewer cockpit draw tris & zero black/grey Z-fighting), sealed all `35` vessels for `100%` watertight exterior floors, and removed dark storm-deck flickering.
+- **2-Axis Anchor Pendulum Physics & `+20%` Marine Wildlife**: Natural plumb-vertical damped gravity/hydrodynamic anchor swing during dropping & weighing plus a `+20%` boost to whales, orcas, dolphins, sharks, rays, turtles, fish schools, and seabirds swimming closer to the sunlit surface at `100+ FPS` 1P Ultra!

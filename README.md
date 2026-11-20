@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.30`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.31`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.30`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.31`).
 
 ---
 
-## Direct Download (`v1.9.30` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.31` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.30`
+## What's New in `v1.9.31`
 
-- **Exact `v1.9.27` Planted Boat-Wave Physics Restored (`All 35 Ships`)**: Restored the smooth, deeply planted `v1.9.27` heavy-displacement hull-wave hydrostatics on medium & large ships (`#08`–`#35`) alongside responsive small-boat (`#01`–`#07`) wave handling and `#03` starter wave-landing thumps.
-- **Clean Dry Vessel Decks (`0` Deck-Top Water) & `120 FPS` 1st-Person Bridge Performance**: Completely removed all water coming onto the top of vessels, hull scupper cutouts, and side scupper waterfalls across local & remote ships while preserving optical windshield droplets, `1–3m` wet hull waterline bands, spinning 3D stern propellers, and `100+ FPS` (`~120 FPS`) Ultra 1st-person bridge performance.
-- **Dedicated Thunderstorm & Rain Volume Slider (`[ESC]` & Bridge Monitor 7)**: Added a persistent `0%–100%` **Storm & Rain Volume** control (default `65%`) alongside Horn, Boat Engine, and YouTube TV volumes, with balanced raw rain/thunder loudness and enclosed-cabin muffling!
+- **Deterministic Whole-Map Roaming Storms & Natural Lifecycles (`100%` Multiplayer Synced)**: Replaced fixed elliptical storm loops with `UTC + SharedWorldSeed` Catmull-Rom seeded-waypoint roaming across all 4 ocean quadrants (`0` center-camping) and smooth `Forming -> Mature -> Dissipating` lifecycles (`0.0000 cm` synchronized across all multiplayer peers).
+- **1-Click Co-Op `[ BOARD SHIP ]` & Company Member Role Fix (`[P]` & Bridge Monitor 7)**: Fixed `45`-char Windows `CompanyHostPlayerId` truncation over UDP & Cloud JSON so joined company friends always keep `ROLE: HUMAN MEMBER` and see `[ 1. BOARD OWNER SHIP (CO-OP) ]`, plus added a direct 1-click **`[ BOARD SHIP ]`** button next to `[ TELEPORT ]` on every company teammate's roster row!
+- **Includes All `v1.9.30` Upgrades (`All 35 Ships`)**: Planted `v1.9.27` boat-wave physics, permanently clean dry decks, dedicated **Storm & Rain Volume** slider (`0%–100%`), spinning 3D stern propellers, and `115+ FPS` 1st-person bridge Ultra performance.

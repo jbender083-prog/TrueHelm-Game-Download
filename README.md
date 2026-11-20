@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.33`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.34`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.33`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.34`).
 
 ---
 
-## Direct Download (`v1.9.33` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.34` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.33`
+## What's New in `v1.9.34`
 
-- **Shipyard-Fresh Zero-Rust `MV Vanguard` Visual Overhaul Across All `35` Ships (`2048x1024` Longitudinal Hulls)**: Every vessel in the 35-Ship Fleet now sports brand-new factory marine satin liveries (`0%` rust or grime), `2048x1024` longitudinal welded hull strakes, crisp `2M–8M` draft marks & midships Lloyd's `L R` Plimsoll Load Line, white waterline trim stripe, glossy wet waterline reflections, clean gearless commercial cargo decks (zero onboard cranes on cargo vessels), bow jackstaff masts, and 3-bar safety railings.
-- **Stenciled Corrugated Corten Steel Containers (Baked & Dynamic Cargo)**: Desaturated merchant-marine shipping-line palette (`TRUEHELM LINE`, `NORTH SEA CARGO`, `BALTIC FREIGHT`, `TRANS-OCEANIC`) with crisp `45G1` ISO markings, yellow/black corner warning stripes, and deep vertical corrugation normals across every loaded container.
-- **Vanguard Walk-In Bridge, Corridors & Cockpit Polish (`0.000 cm` Layout Drift, `100+ FPS` 1P Ultra)**: Sloped anti-glare forward bridge windows, dark recessed overhead instrument soffit brow with illuminated gauge strips, twin pedestal leather helm chairs, mottled reflective dark charcoal bridge floors, two-tone marine cream/slate-blue bulkheads with yellow/black safety baseboards, color-coded overhead piping, watertight brass-porthole doors, and sleek dark anodized + warm teak/brass cockpit trim keeping 100% identical monitor/control positions!
+- **Hanging Yokohama Dock Fender Buoys, Giant Mooring Bollards & Wind-Driven Rope Physics**: Massive ribbed Yokohama pneumatic fender buoys hanging down every port quay wall, heavy cast-iron T-head bollards with wrapped braided hawser coils, and live onshore/offshore wind mooring physics (cushioning hulls against the buoys with deep slouching rope catenaries in onshore wind, and pulling hawsers taut in offshore wind).
+- **Smooth Solid-Color Marine Hulls & Clean White Port/LNG Tanks**: Clean smooth factory-painted hull sides across all `35` vessels (`0` plate-grid lines, `0` rust — keeping crisp `2M–8M` draft & `L R` Plimsoll marks) plus smooth logo-free satin-white LNG Moss spheres and port fuel storage tanks.
+- **Seamless Bridge Console Desk, Bone-Dry Cabin Floors & Exterior-Only Rain Reflections**: Redesigned non-overlapping dark matte-charcoal bridge desk with flush warm-teak inlay (`0.000 cm` control drift), 100% bone-dry matte-satin cabin floors, and dynamic glossy rain reflections strictly outside on exterior decks, hulls, and containers at `100+ FPS` 1P Ultra!

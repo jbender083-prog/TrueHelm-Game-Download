@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.32`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.33`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.32`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.33`).
 
 ---
 
-## Direct Download (`v1.9.32` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.33` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.32`
+## What's New in `v1.9.33`
 
-- **Full Blender 4.2 Photorealistic 3D Remodel of All `35` Ships (Exterior & Walk-In Interior)**: Sculpted bulbous bows, bow flare, welded cap rails, hawsepipe pockets, hydraulic windlasses, corrugated ISO containers & lashing bridges, tanker pipework, deck cranes, recessed window mullions, lifeboats/davits, louvered funnels, X/S-band radar masts, and detailed walk-in wheelhouse interiors across all 35 vessels (`1.25M+` fleet tris + 3 hardware LODs).
-- **Photorealistic Cockpit Monitors & Control Hardware (`100%` Identical Cockpit Layout)**: `3x`-higher-detail CNC chamfered aluminum monitor bezels with hex bolts, glare hoods, knurled knobs & VESA yokes, stitched leather console bolsters, lathe-turned varnished teak & stainless-steel helm wheel with brass magnetic binnacle compass, and machined detent telegraph quadrants (`0.000 cm` layout change!).
-- **30 Seamless `1024x1024` PBR Textures & 29 Marine PBR Materials (`100+ FPS` 1P Ultra)**: Welded steel hull plates with oil-canning & salt-spray AO, diamond-plate non-skid weather decks, Burmese Teak & Holly bridge floors, anisotropic brushed steel, powder-coated matte consoles, and ocean-hemisphere Skylight bounce!
+- **Shipyard-Fresh Zero-Rust `MV Vanguard` Visual Overhaul Across All `35` Ships (`2048x1024` Longitudinal Hulls)**: Every vessel in the 35-Ship Fleet now sports brand-new factory marine satin liveries (`0%` rust or grime), `2048x1024` longitudinal welded hull strakes, crisp `2M–8M` draft marks & midships Lloyd's `L R` Plimsoll Load Line, white waterline trim stripe, glossy wet waterline reflections, clean gearless commercial cargo decks (zero onboard cranes on cargo vessels), bow jackstaff masts, and 3-bar safety railings.
+- **Stenciled Corrugated Corten Steel Containers (Baked & Dynamic Cargo)**: Desaturated merchant-marine shipping-line palette (`TRUEHELM LINE`, `NORTH SEA CARGO`, `BALTIC FREIGHT`, `TRANS-OCEANIC`) with crisp `45G1` ISO markings, yellow/black corner warning stripes, and deep vertical corrugation normals across every loaded container.
+- **Vanguard Walk-In Bridge, Corridors & Cockpit Polish (`0.000 cm` Layout Drift, `100+ FPS` 1P Ultra)**: Sloped anti-glare forward bridge windows, dark recessed overhead instrument soffit brow with illuminated gauge strips, twin pedestal leather helm chairs, mottled reflective dark charcoal bridge floors, two-tone marine cream/slate-blue bulkheads with yellow/black safety baseboards, color-coded overhead piping, watertight brass-porthole doors, and sleek dark anodized + warm teak/brass cockpit trim keeping 100% identical monitor/control positions!

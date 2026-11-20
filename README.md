@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.28`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.29`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.28`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.29`).
 
 ---
 
-## Direct Download (`v1.9.28` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.29` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.28`
+## What's New in `v1.9.29`
 
-- **True-Deck Wave Gate, Full-Hull `48x20` Stem-to-Stern Deck Flow, 7-Outlet Scupper Cascades & Overhead CCTV Water (`All 35 Ships`)**: Deck water enters strictly when the real 3D ocean crests above the deck edge, surges around wheelhouses & cargo hatches down port/starboard side-decks to the stern, drains via 6 side scuppers + stern spill with 2D SWE ocean wave dimpling, and renders live on all 4 Overhead CCTV Monitors.
-- **Spinning 3D Stern Propellers (`1–4` Screws), Smooth `1%` `[W]`/`[S]` Throttle, 4-Speed Wipers, Manual Night Lights & `< 60s` Zero-Clip Rescues**: Added engine-matched spinning stern propellers on all 35 vessels, smooth `1%-by-1%` keyboard throttle ramping, 4 wiper speeds, manual-only cabin/bow lights at night, MFD-only Beam Swell Hazard alerts, and `< 60s` zero-clipping rescue tug & fuel boat arrivals.
-- **`4,183` Whole-Map Coral Reefs (`7x` Mega-Reefs + `1,113` Marine Animals), Heavy Rain Downpours, 3-Speed Multiplayer Cranes & Docking Guide Toggle**: Thinned crowded center reefs while spreading `4,183` reefs & `250` `6.7–11.7 km` Mega-Reefs across the full `4,617 km` map with zero-lag region streaming, `3.2x` drenching 3D rainstorms, clean whitewater dock-wall wake hits, Docking Guide `[ON/OFF]`, and `[REALISTIC / MEDIUM / FAST]` port crane speeds synced per-player in multiplayer!
+- **`100+ FPS` First-Person Bridge & Wheelhouse Optimization (`All 35 Ships`)**: Fast active-packed GPU windshield droplets, upward-gaze-gated `22 Hz` Overhead CCTV captures, single-MFD round-robin refreshes (`O(1)` spatial radar), and offscreen display culling deliver `100+ FPS` Ultra in 1st-person even in active rainstorms.
+- **See-Through Translucent Deck Seawater, True Outer-Bulwark Gate & `100%` Dry Interior Cabins**: Deck water renders as see-through translucent slate-teal seawater (`16%–43%` alpha), floods strictly when real ocean swells top the outer bulwark, and stays `100%` outside every cabin — with zero rain streaks or raindrops ever entering interior rooms.
+- **Restored Classic Natural Wave Heave/Pitch/Roll, `2,876` Compact Coral Reefs & Active Corridor Thunderstorms**: Restored full natural pre-`v1.9.24` wave heave, pitch, and roll across medium & large vessels, pruned reefs by `~30%` (removing giant multi-km blue map patches), and positioned 7 active thunderstorms & squalls across primary shipping lanes!

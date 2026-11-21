@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.36`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.37`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.36`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.37`).
 
 ---
 
-## Direct Download (`v1.9.36` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.37` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.36`
+## What's New in `v1.9.37`
 
-- **100% Intact Side-by-Side Multiplayer Cabins & Panelized `35`-Ship Superstructures**: Panelized wheelhouse aft bulkheads and multi-tier accommodation walls across all `35` vessels so walk-in doorway carving never removes wide cabin or deckhouse walls on nearby friend or traffic ships.
-- **Occupied Remote Wheelhouse Interiors, Closed Watertight Doors & Exterior Stairs**: Nearby multiplayer friend vessels (`<= 1,500 m`) and co-op ships render full wheelhouse interiors (floor, bulkheads, helm console desk & pedestal silhouette behind bridge windows), closed porthole watertight doors, and exterior aft staircases.
-- **Close-Range Frustum & HZB Occlusion Guard**: Expanded remote hull/cabin bounds and disabled false self-occlusion so side-by-side fleet convoys never flicker or cull at close range (`100+ FPS` 1P Ultra & `80+ FPS` 2-Boat Ultra)!
+- **Walk-In Photorealistic Island Housing Overhaul (`240` Designs Across All `74` Islands)**: Replaced all legacy island buildings with `20–50` photorealistic walk-in homes per island — spanning humble cottages, family homes, villas, and 2–3 story luxury mansions! Press `[G]` to Step Ashore on foot, look through real glass windows, press `[E]` to open hinged exterior & interior doors, climb 1F–3F staircases, and explore fully furnished rooms.
+- **Buoyant Tide- & Wave-Floating Yokohama Dock Fender Buoys**: Pneumatic port fender buoys float proudly on top of rising tides and harbor waves with live berthing squish while fixed concrete wall brackets and dynamic catenary suspension ropes slacken naturally.
+- **Heavy Coupled Anchor-Chain Pendulum Swing & Seamless Watertight `35`-Ship Hulls**: Coupled finite-mass chain & rigid-body anchor pendulum physics with water-entry/exit impulses and vessel-mass inertia, plus 100% seamless welded decks and bulwarks across all `35` vessels (`100+ FPS` 1P Ultra)!

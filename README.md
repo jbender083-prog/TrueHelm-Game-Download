@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.37`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.38`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.37`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.38`).
 
 ---
 
-## Direct Download (`v1.9.37` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.38` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.37`
+## What's New in `v1.9.38`
 
-- **Walk-In Photorealistic Island Housing Overhaul (`240` Designs Across All `74` Islands)**: Replaced all legacy island buildings with `20–50` photorealistic walk-in homes per island — spanning humble cottages, family homes, villas, and 2–3 story luxury mansions! Press `[G]` to Step Ashore on foot, look through real glass windows, press `[E]` to open hinged exterior & interior doors, climb 1F–3F staircases, and explore fully furnished rooms.
-- **Buoyant Tide- & Wave-Floating Yokohama Dock Fender Buoys**: Pneumatic port fender buoys float proudly on top of rising tides and harbor waves with live berthing squish while fixed concrete wall brackets and dynamic catenary suspension ropes slacken naturally.
-- **Heavy Coupled Anchor-Chain Pendulum Swing & Seamless Watertight `35`-Ship Hulls**: Coupled finite-mass chain & rigid-body anchor pendulum physics with water-entry/exit impulses and vessel-mass inertia, plus 100% seamless welded decks and bulwarks across all `35` vessels (`100+ FPS` 1P Ultra)!
+- **Exact Curved-Hull-to-Buoy Capsule Contact (Zero Air-Gap Bounce)**: Replaced rectangular bounding-box corners and continuous virtual buoy planes with exact 26-vertex curved-hull polygon vs individual floating Yokohama capsule (`2.1 m` barrel + domed ends) contact across all `35` vessels — angled bow-in approaches make flush hull-on-rubber contact with zero invisible air-gap bounce!
+- **Individual Per-Buoy Squish & Lever-Arm Berthing Pivot**: Only the exact fender buoy(s) physically touched by your hull compress while neighboring buoys stay round, with realistic lever-arm rotational pivot when brushing a buoy at an angle.
+- **Exact Curved-Hull Navigation Buoy Contact + Full `v1.9.37` Walk-In Island Housing**: Includes exact curved-hull channel buoy contact alongside `240`-design walk-in island homes across all `74` islands (`[G]` Step Ashore & `[E]` hinged doors at `100+ FPS` 1P Ultra)!

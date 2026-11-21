@@ -1,10 +1,10 @@
-# TrueHelm: Realistic Shipping Lanes (`v1.9.35`) — Official Game Download
+# TrueHelm: Realistic Shipping Lanes (`v1.9.36`) — Official Game Download
 
-Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.35`).
+Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Realistic Shipping Lanes** (`v1.9.36`).
 
 ---
 
-## Direct Download (`v1.9.35` — Windows 10 / 11 64-bit PC & OpenXR VR)
+## Direct Download (`v1.9.36` — Windows 10 / 11 64-bit PC & OpenXR VR)
 
 | Option | Direct Download Link | Details |
 | :--- | :--- | :--- |
@@ -13,8 +13,8 @@ Official Windows 10/11 PC & OpenXR VR distribution repository for **TrueHelm: Re
 
 ---
 
-## What's New in `v1.9.35`
+## What's New in `v1.9.36`
 
-- **Solid Undocked Yokohama Dock Buoy Collision & Concrete-Edge-Draped Mooring Ropes**: Approaching ships physically contact, elastically compress, and rebound off hanging Yokohama fender buoys before tying mooring lines, while slacked local & multiplayer hawsers drape cleanly over the concrete pier edge without clipping into the dock.
-- **Zero-Flicker Bridge Desk (1P & VR), Watertight `35`-Ship Floors & Clean Storm Decks**: Eliminated duplicate coplanar cockpit faces (`50%` fewer cockpit draw tris & zero black/grey Z-fighting), sealed all `35` vessels for `100%` watertight exterior floors, and removed dark storm-deck flickering.
-- **2-Axis Anchor Pendulum Physics & `+20%` Marine Wildlife**: Natural plumb-vertical damped gravity/hydrodynamic anchor swing during dropping & weighing plus a `+20%` boost to whales, orcas, dolphins, sharks, rays, turtles, fish schools, and seabirds swimming closer to the sunlit surface at `100+ FPS` 1P Ultra!
+- **100% Intact Side-by-Side Multiplayer Cabins & Panelized `35`-Ship Superstructures**: Panelized wheelhouse aft bulkheads and multi-tier accommodation walls across all `35` vessels so walk-in doorway carving never removes wide cabin or deckhouse walls on nearby friend or traffic ships.
+- **Occupied Remote Wheelhouse Interiors, Closed Watertight Doors & Exterior Stairs**: Nearby multiplayer friend vessels (`<= 1,500 m`) and co-op ships render full wheelhouse interiors (floor, bulkheads, helm console desk & pedestal silhouette behind bridge windows), closed porthole watertight doors, and exterior aft staircases.
+- **Close-Range Frustum & HZB Occlusion Guard**: Expanded remote hull/cabin bounds and disabled false self-occlusion so side-by-side fleet convoys never flicker or cull at close range (`100+ FPS` 1P Ultra & `80+ FPS` 2-Boat Ultra)!
